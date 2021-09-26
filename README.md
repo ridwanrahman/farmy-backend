@@ -12,3 +12,7 @@ To setup the project, please follow the steps:
 #### To run the test classes/functions separately
 1. Follow the instructions above to setup the project
 2. Run `python -m pytest tests/integration_tests/apps/user/test_user.py::<Classname>::<Functionname>`
+
+#### Development Conventions:
+
+- To update any installed packages run `pip3 freeze > requirements.txt`
