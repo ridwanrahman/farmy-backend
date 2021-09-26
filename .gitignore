@@ -1,0 +1,4 @@
+farmy-backend-env
+.vscode
+# data/env file stores environment variables
+data
